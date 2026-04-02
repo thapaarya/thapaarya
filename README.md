@@ -8,7 +8,7 @@
 
 ## ☀️ About Me
 
-* Interested in analytics, finance, and machine learning
+* Interested in data analytics and machine learning
 * Experience working on real-world data projects
 * Skilled in Python, SQL, and Tableau
 
@@ -18,7 +18,7 @@
 
 * **Languages:** Python, SQL, PHP
 * **Libraries:** Pandas, NumPy
-* **Tools:** Tableau, Jupyter and Colab Notebook
+* **Tools:** Tableau, Jupyter Notebook
 * **Concepts:** Data Analysis, Machine Learning, Visualization
 
 ![Python](https://img.shields.io/badge/Python-blue)
